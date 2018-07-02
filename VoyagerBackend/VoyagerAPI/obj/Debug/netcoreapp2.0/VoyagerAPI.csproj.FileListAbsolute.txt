@@ -1,0 +1,11 @@
+C:\Users\cn3259\source\repos\VoyagerAPI\VoyagerAPI\obj\Debug\netcoreapp2.0\VoyagerAPI.csprojResolveAssemblyReference.cache
+C:\Users\cn3259\source\repos\VoyagerAPI\VoyagerAPI\obj\Debug\netcoreapp2.0\VoyagerAPI.csproj.CoreCompileInputs.cache
+C:\Users\cn3259\source\repos\VoyagerAPI\VoyagerAPI\obj\Debug\netcoreapp2.0\VoyagerAPI.AssemblyInfoInputs.cache
+C:\Users\cn3259\source\repos\VoyagerAPI\VoyagerAPI\obj\Debug\netcoreapp2.0\VoyagerAPI.AssemblyInfo.cs
+C:\Users\cn3259\source\repos\VoyagerAPI\VoyagerAPI\bin\Debug\netcoreapp2.0\VoyagerAPI.deps.json
+C:\Users\cn3259\source\repos\VoyagerAPI\VoyagerAPI\bin\Debug\netcoreapp2.0\VoyagerAPI.runtimeconfig.json
+C:\Users\cn3259\source\repos\VoyagerAPI\VoyagerAPI\bin\Debug\netcoreapp2.0\VoyagerAPI.runtimeconfig.dev.json
+C:\Users\cn3259\source\repos\VoyagerAPI\VoyagerAPI\bin\Debug\netcoreapp2.0\VoyagerAPI.dll
+C:\Users\cn3259\source\repos\VoyagerAPI\VoyagerAPI\bin\Debug\netcoreapp2.0\VoyagerAPI.pdb
+C:\Users\cn3259\source\repos\VoyagerAPI\VoyagerAPI\obj\Debug\netcoreapp2.0\VoyagerAPI.dll
+C:\Users\cn3259\source\repos\VoyagerAPI\VoyagerAPI\obj\Debug\netcoreapp2.0\VoyagerAPI.pdb
