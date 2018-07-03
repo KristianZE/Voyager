@@ -17,25 +17,57 @@ namespace VoyagerAPI
             {
                     new PostDto()
                 {
-                    Id = 1,
+                    PostId = 1,
+                  
                     Name = "Kristian",
-                    Description = "This is a post test",
-                    IsAnonym = true
+                    SolutionName = "Ny ADK analyse",
+                    SolutionDescription = "Effektivisere ADK-revisjon",
+                    IsAnonym = true,
+                    UserId = 33,
+                    descriptionOfNeed = "Ønsker mer effektiv revisjon",
+                    DescriptionValue = "Mer effektiv revisjon, morsomere å revidere",
+                    MarketNeed = "Hardere konkurranse på pris",
+                    ServiceDepartment = "Revisjonsgruppe 1 Vika",
+                    Competition = "RSM gjør det samme",
+                    Votes = 10,
+
                 },
+
                     new PostDto()
-                {
-                    Id = 2,
-                    Name = "Carl",
-                    Description = "We should implement cathedrals",
-                    IsAnonym = false
-                },
+                    {
+                    PostId = 2,
+                    Name = "Shahab",
+                    SolutionName = "Feedback",
+                    SolutionDescription = "eksempeltekst",
+                    IsAnonym = true,
+                    UserId = 44,
+                    descriptionOfNeed = "Ønsker mer effektiv revisjon",
+                    DescriptionValue = "Mer effektiv revisjon, morsomere å revidere",
+                    MarketNeed = "Hardere konkurranse på pris",
+                    ServiceDepartment = "Revisjonsgruppe 1 Vika",
+                    Competition = "RSM gjør det samme",
+                    Votes = 4,
+
+                 },       
+
                     new PostDto()
-                {
-                    Id = 3,
+                    {
+                    PostId = 3,
                     Name = "Niklas",
-                    Description = "Cheaper food please!",
-                    IsAnonym = true
-                }
+                    SolutionName = "Chatbot",
+                    SolutionDescription = "eksempeltekst",
+                    IsAnonym = true,
+                    UserId = 55,
+                    descriptionOfNeed = "Ønsker mer effektiv revisjon",
+                    DescriptionValue = "Mer effektiv revisjon, morsomere å revidere",
+                    MarketNeed = "Hardere konkurranse på pris",
+                    ServiceDepartment = "Revisjonsgruppe 1 Vika",
+                    Competition = "RSM gjør det samme",
+                    Votes = 11, 
+
+                 },
+
+
             };
         }
     }

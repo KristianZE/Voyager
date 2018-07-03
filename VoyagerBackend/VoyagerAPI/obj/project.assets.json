@@ -12536,38 +12536,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cn3259\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\cn3033\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\cn3259\\source\\repos\\VoyagerAPI\\VoyagerAPI\\VoyagerAPI.csproj",
+      "projectUniqueName": "C:\\Users\\cn3033\\Desktop\\Nymappe\\VoyagerBackend\\VoyagerAPI\\VoyagerAPI.csproj",
       "projectName": "VoyagerAPI",
-      "projectPath": "C:\\Users\\cn3259\\source\\repos\\VoyagerAPI\\VoyagerAPI\\VoyagerAPI.csproj",
-      "packagesPath": "C:\\Users\\cn3259\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cn3259\\source\\repos\\VoyagerAPI\\VoyagerAPI\\obj\\",
+      "projectPath": "C:\\Users\\cn3033\\Desktop\\Nymappe\\VoyagerBackend\\VoyagerAPI\\VoyagerAPI.csproj",
+      "packagesPath": "C:\\Users\\cn3033\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cn3033\\Desktop\\Nymappe\\VoyagerBackend\\VoyagerAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\cn3259\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\cn3033\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://services.bdo.no/Nuget/nuget/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {

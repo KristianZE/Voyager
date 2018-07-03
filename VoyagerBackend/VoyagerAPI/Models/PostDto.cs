@@ -7,10 +7,18 @@ namespace VoyagerAPI.Models
 {
     public class PostDto
     {
-        public int Id { get; set; }
+        public int PostId { get; set; }
+        public DateTime TimeCreated { get; set; }
         public string Name { get; set; }
-        public string Description { get; set; }
+        public string SolutionName { get; set; }
+        public string SolutionDescription { get; set; }
         public bool IsAnonym { get; set; }
         public int Votes { get; set; }
+        public string descriptionOfNeed { get; set; }
+        public string DescriptionValue { get; set; }
+        public string MarketNeed { get; set; }
+        public string ServiceDepartment { get; set; } 
+        public string Competition { get; set; }
+        public int UserId { get; set; }
     }
 }
